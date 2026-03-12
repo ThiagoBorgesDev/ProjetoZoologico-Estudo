@@ -13,4 +13,4 @@ Projeto simples em Java utilizando Programação Orientada a Objetos.
 ## Animais implementados
 
 - Leão
-- ElefanteTrabalhando POO e boas práticas em JAVA de maneira mais técnica.
+- Elefante
